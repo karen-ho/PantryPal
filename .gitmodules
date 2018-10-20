@@ -1,0 +1,3 @@
+[submodule "PantryPal-iOS"]
+	path = PantryPal-iOS
+	url = https://github.com/karen-ho/PantryPal-iOS
